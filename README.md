@@ -18,13 +18,11 @@ Package solves the problem of running functions that require internet connection
    ```ts
    import { waitForInternetConnection } from 'react-native-check-connection'
    ```
-   ```
 2. Use function in app.tsx
    ```ts
    await waitInternetConnection()
     // Do stuff that requires internet connection
     ```
-   ```
 
 ## API
 
