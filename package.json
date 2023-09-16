@@ -1,0 +1,25 @@
+{
+  "name": "react-native-check-connection",
+  "description": "Package for checking internet connection in React Native",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Szqii/react-native-check-connection.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-check-connection",
+    "react-native-netwok-info",
+    "react-native-internet-connection"
+  ],
+  "dependencies": {
+    "@react-native-community/netinfo": "^9.4.1"
+  },
+  "author": "Sezgi Altan",
+  "license": "MIT"
+}
