@@ -1,7 +1,7 @@
 {
   "name": "react-native-check-connection",
   "description": "Package for checking internet connection in React Native",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
